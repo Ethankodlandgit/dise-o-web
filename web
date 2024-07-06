@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<head>
+    <title>Ccomo utilizar la tecnologia</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <h1>La tecnologia en un mal uso.</h1>
+    <p>Esto es sólo un párrafo de texto</p>
+    <h2>Los beneficios de no pegarse tanto al internet</h2>
+             <ul>
+                   <li>Reduce el estres y la anciedad.</li>
+                   <li>Evitar la adiccion y sus consecuencias.</li>
+                   <li>Dormir mejor.</li>
+             </ul>
+     <img src="https://img.freepik.com/vector-premium/ilustracion-hombre-que-controla-telefono-inteligente-redes-sociales-gadget-concepto-dependencia-tecnologica_24381-1463.jpg?w=900" alt="Image 1">
+</body>
+</html>
